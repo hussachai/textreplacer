@@ -2,7 +2,7 @@ textreplacer
 ============
 
 I spent 4 hours on tiny java console application for job interview.
-It's Jr. Java Developer (Entry level)
+It's Java Developer
 Keep in mind that this tiny project is for job interview. It does not intent
 to be practical but it should be able to show some skills on designing software
 and proficiency on language and API.
